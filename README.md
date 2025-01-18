@@ -1,3 +1,4 @@
+#Words Per Minute
 ⌨️ Typing Speed Test
 Welcome to the Typing Speed Test project! 🎉 This project helps you measure and improve your typing speed in a fun and engaging way.
 
