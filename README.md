@@ -1,18 +1,11 @@
-# Python-Mini-Projects
-Welcome to the Python Mini Project repository! 🎉 Whether you're a seasoned developer or just starting out, this project is a perfect opportunity to sharpen your Python skills and dig into some fun and practical coding exercises.
+⌨️ Typing Speed Test
+Welcome to the Typing Speed Test project! 🎉 This project helps you measure and improve your typing speed in a fun and engaging way.
 
 🔥 Features
-Beginner-Friendly: Perfect for newcomers to Python looking to get their hands dirty.
+Real-Time WPM Calculation: See your typing speed as you type.
 
-Modular Code: Well-structured and organized scripts to ensure readability and maintainability.
+Accuracy Tracking: Detect errors and highlight them in real-time.
 
-Comprehensive Documentation: Each feature and function is thoroughly documented for easy understanding.
+Motivational Messages: Fun and encouraging messages tailored to your typing speed.
 
-Real-World Use Cases: Practical project scenarios that mimic real-life applications and challenges.
-
-💡 What's Inside
-Web Scraping Utilities: Harness the power of the web with simple and effective scraping techniques.
-
-Automation Scripts: Time-saving scripts to automate repetitive tasks.
-
-Mini Games: Fun and interactive Python games to challenge your logic and creativity.
+Easy to Use: Simple interface to get you started quickly.
