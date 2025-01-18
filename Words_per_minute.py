@@ -1,4 +1,4 @@
-import curses
+import curses  #to import this type the following command in cmd. -> pip install windows-curses
 from curses import wrapper
 import time
 import random
